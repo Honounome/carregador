@@ -1,2 +1,2 @@
 # carregador
-um carregador de celular
+Na verdade é uma fonte ajustável

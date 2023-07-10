@@ -24,3 +24,4 @@ Quantidade | Componentes | Preço
 
 ## Falstad
 ![circuito falstad](Imagens/circuito4.png)
+

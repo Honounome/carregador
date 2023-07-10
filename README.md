@@ -9,9 +9,10 @@ Quantidade | Componentes | Preço
 1 | LED vermelho 5mm | 0,30
 1| Diodo Zenner 13V | 0,25
 1 | Transistor NPN | 0,5
-1 | Potenciômetro 10K ohms | 2,25
-3 | Resistores 1k| 0,05 x 3 = 0,15
-2 | Resistorees 4.7K | 0,05 x 2 = 0,1
+1 | Potenciômetro 5K ohms | 2,25
+1 | Resistor 1k| 0,05
+1 | Resistor 2.7K | 0,05
+1 | Resistor 2.2k | 0,05
 
 ## Componentes
 * Transformador: Reduz a tensão média de 110V para 24V ( razão 7.3).
@@ -23,7 +24,7 @@ Quantidade | Componentes | Preço
 * Transistor: utilizado para amplificar a corrente que passa para as saídas da fonte
 
 ## Falstad
-![circuito falstad](Imagens/circuito4.png)
+![circuito falstad](Imagens/circuito5.png)
 [circuito no falstad](https://tinyurl.com/29td5cmg)
 
 ## Imagem da fonte / protoboard

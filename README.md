@@ -23,4 +23,4 @@ Quantidade | Componentes | Preço
 * Transistor: utilizado para amplificar a corrente que passa para as saídas da fonte
 
 ## Falstad
-![circuito falstad](/Imagens/Captura de tela 2023-07-10 150246.png)
+![circuito falstad](Imagens/circuito4.png)

@@ -21,3 +21,6 @@ Quantidade | Componentes | Preço
 * Resistores: reduzem tensão, impedindo que o valor da corrente ultrapasse os limites dos componentes do circuito(fazem isso ao dissipar a potência através de calor).
 * Potenciometro: componente de resistência variável que permite a variação entre 3V e 12V nas saídas da fonte.
 * Transistor: utilizado para amplificar a corrente que passa para as saídas da fonte
+
+## Falstad
+![circuito falstad](/Imagens/Captura de tela 2023-07-10 150246.png)

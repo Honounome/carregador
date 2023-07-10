@@ -9,7 +9,7 @@ Quantidade | Componentes | Preço
 1 | LED vermelho 5mm | 0,30
 1| Diodo Zenner 13V | 0,25
 1 | Transistor NPN | 0,5
-1 | Potenciômetro 5K ohms | 2,21
+1 | Potenciômetro 10K ohms | 2,25
 3 | Resistores 1k| 0,05 x 3 = 0,15
 2 | Resistorees 4.7K | 0,05 x 2 = 0,1
 
@@ -24,4 +24,5 @@ Quantidade | Componentes | Preço
 
 ## Falstad
 ![circuito falstad](Imagens/circuito4.png)
+[circuito no falstad](https://tinyurl.com/2ak4ejof)
 

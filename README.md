@@ -14,7 +14,7 @@ Quantidade | Componentes | Preço
 2 | Resistorees 4.7K | 0,05 x 2 = 0,1
 
 ## Componentes
-* Transformador: Reduz a tensão média de 110V para 24V.
+* Transformador: Reduz a tensão média de 110V para 24V ( razão 7.3).
 * Ponte de diodo: possibilita que a corrente variável da tomada fique contínua.
 * Capacitor: armazena e descarrega carga durante o funcionamento do circuito, possibilitando que a corrente seja contínua.
 * Diodo Zener: regula a tensão do circuito para que seja 13V.

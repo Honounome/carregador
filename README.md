@@ -26,3 +26,5 @@ Quantidade | Componentes | Preço
 ![circuito falstad](Imagens/circuito4.png)
 [circuito no falstad](https://tinyurl.com/2ak4ejof)
 
+## Imagem da fonte / protoboard
+![fonte](Imagens/ciruitofoto.jpeg)

@@ -7,7 +7,7 @@ O objetivo do trabalho é criar uma fonte que possa carregar um aparelho celular
 ## Componentes e preços
 Quantidade | Componentes | Preço
 ---------- | ----------- | -----
-1 | Capacitor 820uf | R$ 3,23
+1 | Capacitor 820uf 35V | R$ 3,23
 1 | LED vermelho 5mm | R$ 0,30
 1 | Diodo Zenner 13V | R$ 0,25
 1 | Transistor NPN | R$ 0,50

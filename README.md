@@ -7,20 +7,20 @@ O objetivo do trabalho é criar uma fonte que possa carregar um aparelho celular
 ## Componentes e preços
 Quantidade | Componentes | Preço
 ---------- | ----------- | -----
-1 | Capacitor | Já estava em nossa posse
-1 | LED vermelho 5mm | 0,30
-1 | Diodo Zenner 13V | 0,25
-1 | Transistor NPN | 0,5
-1 | Potenciômetro 5K ohms | 2,25
-1 | Resistor 1k| 0,05
-1 | Resistor 2.7K | 0,05
-1 | Resistor 2.2k | 0,05
+1 | Capacitor 820uf | R$ 3,23
+1 | LED vermelho 5mm | R$ 0,30
+1 | Diodo Zenner 13V | R$ 0,25
+1 | Transistor NPN | R$ 0,50
+1 | Potenciômetro 5K ohms | R$ 2,25
+1 | Resistor 1k| R$ 0,05
+1 | Resistor 2.7K | R$ 0,05
+1 | Resistor 2.2k | R$ 0,05
 
 ## Componentes
-* Transformador: Reduz a tensão média de 180V para 24V;
+* Transformador: Reduz a tensão média de 127V para 18.1V;
 * Ponte de diodo: possibilita que a corrente variável da tomada fique contínua;
-* Capacitor: armazena e descarrega carga durante o funcionamento do circuito, possibilitando que a corrente seja contínua;
-* Diodo Zener: regula a tensão do circuito para que seja 13V;
+* Capacitor: armazena e descarrega carga durante o funcionamento do circuito, diminuindo o ripple do circuito;
+* Diodo Zener: regula a tensão do circuito para que o ripple seja cortado;
 * Resistores: reduzem tensão, impedindo que o valor da corrente ultrapasse os limites dos componentes do circuito (fazem isso ao dissipar a potência através de calor);
 * Potenciometro: componente de resistência variável que permite a variação entre 3V e 12V nas saídas da fonte;
 * Transistor: utilizado para amplificar a corrente que passa para as saídas da fonte.
@@ -55,3 +55,6 @@ Assim, a capacitância mínima necessária é de 404,65µF. No projeto utilizamo
 ## Imagens do CAD
 ![CAD1](Imagens/cad-3d-1.png)
 ![CAD2](Imagens/cad-3d-2.png)
+
+## Vídeo do Projeto
+[Vídeo do Projeto](https://www.youtube.com/watch?v=1EafWx9WRCc)

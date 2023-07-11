@@ -48,3 +48,10 @@ Assim, a capacitância mínima necessária é de 404,65µF. No projeto utilizamo
 
 ## Imagem da fonte / protoboard
 ![Fonte](Imagens/ciruitofoto.jpeg)
+
+## Imagem da PCB
+![PCB](Imagens/cad_fonte.png)
+
+## Imagens do CAD
+![CAD1](Imagens/cad-3d-1.png)
+![CAD2](Imagens/cad-3d-2.png)
